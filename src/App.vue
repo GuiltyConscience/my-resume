@@ -648,7 +648,7 @@ function closeMenu() {
             </div>
 
             <div class="education-block">
-              <p class="edu-school">江西师范学院</p>
+              <p class="edu-school">江西师范大学</p>
               <p class="edu-meta">1997年生 · 江西 · 5年工作经验</p>
               <p class="edu-note">
                 侧重企业应用和中后台系统开发，能够独立承担一个业务模块从需求理解、开发联调到上线支持的完整交付。
