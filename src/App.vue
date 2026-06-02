@@ -428,7 +428,7 @@ function closeMenu() {
           <h1>刘威</h1>
           <p class="hero-role">Java 全栈工程师</p>
           <p class="hero-intro">
-            1997年，来自江西，毕业于江西师范学院，5年开发经验。主要做 Java 全栈方向，
+            1997年，来自江西，毕业于江西师范大学，5年开发经验。主要做 Java 全栈方向，
             后端以 Spring Boot、Spring Cloud、MySQL、Redis 为主，前端可承担 Vue、React
             中后台页面开发与接口联调。
           </p>
